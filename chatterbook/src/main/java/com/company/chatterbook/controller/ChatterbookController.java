@@ -78,17 +78,7 @@ public class ChatterbookController {
         return userPosts;
 
 
-        /*
-        List<ChatterPost> userPosts = null;
-
-        for(User user : userList) {
-            if(user.getName().equals(username)) {
-                userPosts = user.getChatterPosts();
-            }
-        }
-        return userPosts;
-
-         */
+     
 
     }
 
